@@ -14,8 +14,8 @@ Just change the TrelloKey and TrelloToken on App.settings.
 
 ### Where do I find these keys?
 
-https://trello.com/app-key
-https://trello.readme.io/v1.0/reference#api-key-tokens
+- https://trello.com/app-key
+- https://trello.readme.io/v1.0/reference#api-key-tokens
 
 
 ### o/
